@@ -1,0 +1,4 @@
+integration:
+  mongo:
+    port: 27017
+    host: localhost
